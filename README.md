@@ -41,4 +41,4 @@ No community plugins are required — backlinks, graph view, and search all work
 
 ## A note on copyright
 
-The model *names* and *concepts* belong to *The Decision Book* and its authors. This wiki paraphrases and connects them for personal study; it deliberately avoids reproducing the book's text. Please support the authors by buying the book. This repository is private for that reason.
+The model *names* and *concepts* belong to *The Decision Book* and its authors. This wiki paraphrases and connects them for personal study; it deliberately avoids reproducing the book's text. 
